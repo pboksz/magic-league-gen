@@ -9,7 +9,6 @@ gem 'json' # json!
 gem 'therubyracer' # javascript runtime
 gem 'thin' # or unicorn, passenger, etc
 
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
